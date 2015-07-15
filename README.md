@@ -1,2 +1,2 @@
 # test
-这是个测试项目
+this is a test
